@@ -1,2 +1,2 @@
 # divider_5
- verilog for divider_5
+ 5分频器verilog代码
